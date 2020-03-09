@@ -1,0 +1,69 @@
+mesesage added launcher settings added appearance removed appearance
+documentation updates added clarification regarding requirements especially for fresh installs that might not have brew or s cmd installed already
+typo and screenshot section
+merge pull request from wireapp dependabot npm and yarn prettier update prettier from to
+uusi lippupohja clean up update distfiles
+noop
+include json and yaml handler plugins by default
+add dialog for calling arbitrary account add dialog for confirmation of incoming call
+updated angular cli added env and entry point specification
+make the card link fill the width of the card so that when the user focuses it it looks neater
+assessment
+use dedicated app ts for the app add images for download update dependency rollup to v
+fix flake
+update some node modules
+updated flow
+fix
+first working tests
+disable sticky for benchmark
+fixed categories
+update documentation md minor edit
+add showroom to master repo
+update gh pages skip ci
+use better revision numbers
+removes uk co workingedge phonegap plugin launchnavigator plugin
+bugfix un delete form property in form validator
+add repl text
+correct minor typo
+upsetparams should be read on the compound root
+update changelog md for release
+update metrics when selected metrics changed
+display names of primitive procedures correctly fix apostrophe in copy doc replace the term qt sdk with qt change id ic f babaf c cec dd b e aa dfa reviewed by jerome pasion c d f b e d d aef d digia com
+logging change
+merge pull request from luccasa migrate style migrate style
+readme pass decodeentities to constructor in the example
+migrated requireremotehttpsattribute
+feat ci send metrics to datadog for each test case closes dcos
+chore tsconfig json enable diagnostics option
+automatic merge from release develop commit dae de c d db f cc f e cc a c b kcwa added configuration to push dxa ish module artifact to nexus
+scheduler proto implement project scoped service accounts proto changes in scheduler config project scoped service accounts will extend luci tokenserver to issue service accounts tied to a particular luci project this will reduce the ambient authority under which a luci service performs a set of actions in order to reduce potential issues in regard to the confused deputy problem r f ddb b f fc a eb b c dfc chromium org bug change id id b d afa e e b e fc reviewed on https chromium review googlesource com c reviewed by vadim shtayura f ddb b f fc a eb b c dfc chromium org commit queue felix matenaar f f a d d f d ce ff e df chromium org
+pom fixes
+build force version of node in travis
+add child types to isrecordedin domain
+synchronize with msg en ts
+add position absolute to initial state of fixedwidthfaderight
+merge pull request from dotnet maestro bot merge release to master automated merge branch release master
+yarn upgrade interactive as in bb e e be b fb b a fcf the electron update fails on node so had to be done like this  brew install n sudo n yarn upgrade interactive sudo n latest 
+pricing page typo initial commit for grunt in the build
+fixed bug in get pump configuration and removed static component list when requesting recipes
+updating disclaimer fixing functional test random failure working on dashboard
+add explanatory alert when a user with an unverified email tries to message another user
+some translations
+disabled mouse drag action for moving flow nodes
+n group favicon included
+v alpha
+refactor upgrade angular final
+add additional explanations and add notes sections
+final fix for hashing the first search path frame
+fix input option symbols js
+merge pull request from geoscienceaustralia tidy up remove debug logging initial commit update readme md added instructions for public node
+v
+added just the docs theme for docs closes
+added homepage
+finally have a test that fails for the correct reason
+add check for not allowing deploying v alpha
+update dependencies props auto updated dependencies
+updating osx project
+merge branch master into rmg secret
+merge branch client create of github com wavesplatform wavesgui into client create
+chore package update nock to version
